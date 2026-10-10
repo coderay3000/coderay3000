@@ -59,14 +59,6 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
-**Core Concepts**
-
-`Data Cleaning` · `Exploratory Data Analysis` · `Feature Engineering` · `Classification` · `Model Evaluation` · `Imbalanced Learning`
-
-**Machine Learning Algorithms**
-
-`Logistic Regression` · `Support Vector Machines` · `Naive Bayes` · `Decision Trees` · `Random Forest`
-
 ### 🧠 Deep Learning & NLP
 
 <p>
@@ -75,10 +67,6 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
   <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge" alt="Neural Networks"/>
 </p>
 
-**Core Concepts**
-
-`Deep Learning` · `Natural Language Processing` · `Text Processing` · `Neural Networks`
-
 ### 🧬 Generative AI & RAG
 
 <p>
@@ -86,10 +74,6 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
   <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" alt="Retrieval Augmented Generation"/>
   <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge" alt="LLM Applications"/>
 </p>
-
-**Core Concepts**
-
-`Retrieval-Augmented Generation` · `Document Loaders` · `Text Splitters` · `Embeddings` · `Vector Stores` · `Retrievers` · `Prompts` · `Chains` · `Runnables`
 
 ### 🤖 Agentic AI & AI Engineering
 
@@ -101,23 +85,11 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
   <img src="https://img.shields.io/badge/Async%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Async Python"/>
 </p>
 
-**Areas of Interest**
-
-`AI Agents` · `Tool Integration` · `API Integration` · `Structured Outputs` · `Asynchronous Programming` · `MCP Servers` · `LLM-powered Applications`
-
 ### ⚙️ Backend Development & MLOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark" alt="Backend and MLOps Tools"/>
 </p>
-
-**Core Concepts**
-
-`REST APIs` · `Model Serving` · `Experiment Tracking` · `Data Versioning` · `Logging` · `Exception Handling` · `Artifact Management` · `ML Pipelines` · `Dockerized Deployment`
-
-**Core Concepts**
-
- `SQL` · `Data Collection` · `Data Cleaning` · `Database Integration`
 
 ### 🧰 Developer Tools
 
@@ -125,17 +97,6 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer Tools"/>
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logoColor=black" alt="Ruff"/>
 </p>
-
-**Core Concepts**
-
-`Git` · `GitHub` · `Version Control` · `Code Quality` · `Configuration Management`
-
-### 🧩 Computer Science Fundamentals
-
-* Data Structures and Algorithms in C++.
-* Arrays, Strings, Binary Search, Two Pointers, and Sliding Window.
-* Linked Lists, Stacks, and Queues.
-* Problem-solving and algorithmic thinking.
 
 ---
 
