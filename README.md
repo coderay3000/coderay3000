@@ -88,28 +88,28 @@
 </p>
 
 ---
+<h2 align="center">⚡ 📊 GitHub Stats 📊 ⚡</h2>
 
-## 📈 GitHub Statistics
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=coderay3000&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00F5D4&text_color=E6EDF3&icon_color=BD93F9&border_color=30363D"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=coderay3000&background=0D1117&ring=FF4DFF&fire=FFD166&currStreakLabel=00F5D4&sideLabels=BD93F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=false&border=30363D"
+    height="180"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
-<div align="center">
-
-<a href="https://github.com/coderay3000">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=coderay3000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/coderay3000">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderay3000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=coderay3000&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderay3000&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=coderay3000&bg_color=0D1117&color=00F5D4&line=BD93F9&point=FF4DFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
 
 ---
 
