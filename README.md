@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🤖 AI/ML Engineer in Progress | Generative AI | MLOps
+### 🤖 AI/ML Engineer in Progress | Generative AI | Agentic AI 
 
 Building intelligent applications, developing machine learning systems, and turning ideas into practical solutions.
 
@@ -31,9 +31,7 @@ Hi, I'm **Ayush**, an aspiring AI/ML Engineer passionate about building intellig
 * 🤖 Learning and implementing Machine Learning algorithms.
 * 🧠 Exploring Generative AI, LLM applications, and Agentic AI.
 * 🔎 Building knowledge retrieval systems using RAG and LangChain.
-* ⚙️ Implementing MLOps workflows using MLflow, DVC, and Docker.
 * 🚀 Deploying machine learning models and applications using FastAPI.
-* 📊 Working with data collection, web scraping, data cleaning, EDA, and ETL.
 * 💻 Practicing Data Structures and Algorithms in C++.
 * 🌱 Continuously improving my engineering skills through hands-on development.
 
@@ -48,7 +46,7 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" alt="Programming Languages"/>
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -63,7 +61,7 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 
 **Core Concepts**
 
-`Data Cleaning` · `Exploratory Data Analysis` · `Feature Engineering` · `ETL` · `Classification` · `Model Evaluation` · `Imbalanced Learning`
+`Data Cleaning` · `Exploratory Data Analysis` · `Feature Engineering` · `Classification` · `Model Evaluation` · `Imbalanced Learning`
 
 **Machine Learning Algorithms**
 
@@ -129,7 +127,7 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 
 **Core Concepts**
 
-`MongoDB` · `SQL` · `Data Collection` · `Data Cleaning` · `ETL Pipelines` · `Database Integration`
+ `SQL` · `Data Collection` · `Data Cleaning` · `Database Integration`
 
 ### 🧰 Developer Tools
 
