@@ -135,7 +135,7 @@
 
 <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username. -->
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/ayush-yadav-5b5168317/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
