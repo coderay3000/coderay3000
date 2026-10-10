@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Ayush;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Machine+Learning+%7C+GenAI+%7C+MLOps" alt="Animated Introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Ayush;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Machine+Learning+%7C+GenAI+%7C+AgenticAI" alt="Animated Introduction" />
 
 <p align="center">
   <img
