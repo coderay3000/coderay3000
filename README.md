@@ -109,21 +109,11 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark" alt="Backend and MLOps Tools"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
 </p>
 
 **Core Concepts**
 
 `REST APIs` · `Model Serving` · `Experiment Tracking` · `Data Versioning` · `Logging` · `Exception Handling` · `Artifact Management` · `ML Pipelines` · `Dockerized Deployment`
-
-### 🗄️ Databases & Data Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
-  <img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge" alt="API Integration"/>
-  <img src="https://img.shields.io/badge/Web%20Scraping-2E8B57?style=for-the-badge" alt="Web Scraping"/>
-</p>
 
 **Core Concepts**
 
