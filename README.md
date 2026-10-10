@@ -123,7 +123,7 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer Tools"/>
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff"/>
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logoColor=black" alt="Ruff"/>
 </p>
 
 **Core Concepts**
