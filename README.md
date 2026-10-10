@@ -28,21 +28,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Hi, I'm **Ayush**, an aspiring AI/ML Engineer passionate about building intelligent applications and production-ready machine learning systems.
-
-* 🤖 Learning and implementing Machine Learning algorithms.
-* 🧠 Exploring Generative AI, LLM applications, and Agentic AI.
-* 🔎 Building knowledge retrieval systems using RAG and LangChain.
-* 🚀 Deploying machine learning models and applications using FastAPI.
-* 💻 Practicing Data Structures and Algorithms in C++.
-* 🌱 Continuously improving my engineering skills through hands-on development.
-
-### 🎯 My Goal
-
-To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI systems that solve real-world problems.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -137,14 +122,6 @@ To become a skilled AI/ML Engineer by building reliable, scalable, and useful AI
 </div>
 
 ---
-
-## 📌 Current Focus
-
-* 🚀 Building practical AI/ML applications.
-* 🧠 Improving Generative AI and Agentic AI implementation skills.
-* ⚙️ Strengthening MLOps and model deployment workflows.
-* 💻 Practicing DSA and improving problem-solving skills.
-* 🌍 Exploring open-source tools and modern AI engineering practices.
 
 ---
 
