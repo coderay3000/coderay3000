@@ -145,11 +145,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<!-- Uncomment this section if you want to display Instagram.
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
--->
+
 
 <br/><br/>
 
